@@ -1,38 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages @rahul235
 
-You can use the [editor on GitHub](https://github.com/rahul235/rahul235.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Welcome to the site
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a repository for data science using Python and R.
 
 ### Markdown
 
-This is a repository for data science using python
+The link to the repositories are here:
+
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+* Here is the reposirty for ML using Pythin [link](https://github.com/rahul235/ML_using_Python)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rahul235/rahul235.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can reach me at rahul235@gmail.com
