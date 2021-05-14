@@ -1,7 +1,5 @@
 ---
 layout: page
-title: "Machine Learning"
-permalink:https://rahul235.github.io/data2decisions
 output:
     html_document:
     toc: true
