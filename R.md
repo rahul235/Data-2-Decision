@@ -2,6 +2,10 @@
 layout: page
 title: "Machine Learning using R"
 permalink:https://rahul235.github.io/data2decisions/R
+output:
+    html_document:
+    toc: true
+    toc_depth: 3
 ---
 
 ## Machine Learning using R
