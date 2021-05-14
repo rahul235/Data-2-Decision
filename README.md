@@ -6,7 +6,7 @@ output:
     toc: true # table of content true
     toc_depth: 3  # upto three depths of headings (specified by #, ## and ###)
     number_sections: true  ## if you want number sections at each table header
-permalink: https://rahul235.github.io/data2decisions
+    
 ---
 
 ## Welcome to the world of Decisions with Data
