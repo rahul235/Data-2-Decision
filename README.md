@@ -71,7 +71,7 @@ Platform specific issue visit: https://julialang.org/downloads/platform/
 
 
 #### Repositories
-The link to the repositories are here: <not updated yet>
+The link to the repositories are here: not updated yet.
 
 
 You can reach me at rahul235@gmail.com
