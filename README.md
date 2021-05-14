@@ -1,3 +1,13 @@
+---
+layout: page
+title: "Machine Learning"
+permalink:https://rahul235.github.io/data2decisions
+output:
+    html_document:
+    toc: true
+    toc_depth: 2
+---
+
 ## Welcome to the world of Decisions with Data
 This is a repository for data science using Python R & Julia. Few links to the material are updated however the page is still in development and will be updated in due course.
 
