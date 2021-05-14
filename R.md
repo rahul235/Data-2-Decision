@@ -1,6 +1,6 @@
 layout: page
 title: "Machine Learning using R"
-permalink: https://rahul235.github.io/data2decisions/
+permalink: https://rahul235.github.io/data2decisions/R
 
 ## Machine Learning using R
 One will need R and may need RStudio to work on data science project using R. The installations and repositories for working with R software are as below:
