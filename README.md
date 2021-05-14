@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Machine Learning using R"
+title: "ML"
 output:
     html_document:
     toc: true # table of content true
