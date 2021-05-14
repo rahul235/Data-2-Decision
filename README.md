@@ -60,11 +60,11 @@ Participants are expected to resolve any installation issues of the software pri
 2. Download Julia:
 
 * Download the OS specific version from https://julialang.org/downloads/. Once installation is complete, open Julia command line/prompt. 
+* To add julia to Jupyter Notebook, type “using Pkg” on the Julia command prompt. Next, type “Pkg.add(“IJulia”) on the Julia command prompt and let the installation finish.
 
-To add julia to Jupyter Notebook:
-> * Type “using Pkg” on the Julia command prompt
-> * Next, type “Pkg.add(“IJulia”) on the Julia command prompt and let the installation finish.
-> * You are ready to work with Julia!!! Launch Jupyter Notebook and open the Julia Kernel.
+![image](Julia_Add.png)
+
+* You are ready to work with Julia!!! Launch Jupyter Notebook and open the Julia Kernel.
 
 Platform specific issue visit: https://julialang.org/downloads/platform/
 
