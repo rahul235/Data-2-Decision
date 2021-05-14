@@ -36,7 +36,16 @@ Participants should have latest version of R and R Studio installed on their sys
   > *  R software can be downloaded from this [link](https://cran.r-project.org/). Download the version specific to your operating system.
   > *  RStudio can be downloaded [here](https://www.rstudio.com/products/rstudio/download)
   
-**_Anaconda with jupyter notebook can also be used to work with R software._**
+`_Anaconda with jupyter notebook can also be used to work with R software._` RStudio may not be needed if using jupyter notebook.
+
+> * Install operating system specific version of [R software](https://cran.r-project.org/)
+> * open R console (or open R through Terminal in Mac). Enter the below command:
+
+    * install.packages('IRkernel’) ##install the IR kernel
+    * library(IRkernel) ## Invoke the package
+    * IRkernel::installspec() ## Make Jupyter Notebook point to the R kernel
+
+open Jupyter Notebook and you can write your R script by using R kernel
 
 #### Repositories
 * R software for statistical analysis is yet another popular langauge for working on data science project. Here is the  [repository link](https://github.com/rahul235/ML_using_R/) for Machine learning using R.
