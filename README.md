@@ -20,8 +20,7 @@ Latest version of the software can be found at:
 > * [Install](https://docs.anaconda.com/anaconda/install/mac-os ) anacondat for MacOS.
 > * For Linux, use this link for [installation](https://docs.anaconda.com/anaconda/install/linux) 
 
-More about anaconda can be found at https://docs.anaconda.com. 
-Participants are expected to resolve any installation issues of the software prior to the commencement of the session.
+More about anaconda can be found [here](https://docs.anaconda.com). Participants are expected to resolve any installation issues of the software prior to the commencement of the session.
 
 #### Repositories
 The link to the repositories are here:
@@ -50,7 +49,7 @@ RStudio may not be needed if using jupyter notebook. `Anaconda with jupyter note
 ![image](JupyterR1.png)
 ![image](JupyterR2.png)
 
-Now you can open Jupyter Notebook and you can write your R script by using R kernel.
+Now you can open Jupyter Notebook and you can write your R script by using R kernel. Participants are expected to resolve any installation issues of the software prior to the commencement of the session.
 
 #### Repositories
 * R software for statistical analysis is yet another popular langauge for working on data science project. Here is the  [repository link](https://github.com/rahul235/ML_using_R/) for Machine learning using R.
@@ -73,14 +72,14 @@ Participants are expected to resolve any installation issues of the software pri
 
 2. Download Julia:
 
-* Download the OS specific version from https://julialang.org/downloads/. Once installation is complete, open Julia command line/prompt. 
+* Download the OS specific version from [this link](https://julialang.org/downloads/). Once installation is complete, open Julia command line/prompt. 
 * To add julia to Jupyter Notebook, type “using Pkg” on the Julia command prompt. Next, type “Pkg.add(“IJulia”) on the Julia command prompt and let the installation finish.
 
 ![image](Julia_Add.png)
 
 * You are ready to work with Julia!!! Launch Jupyter Notebook and open the Julia Kernel.
 
-Platform specific issue visit: https://julialang.org/downloads/platform/
+Platform specific issues can be accessed from [here](https://julialang.org/downloads/platform/). Participants are expected to resolve any installation issues of the software prior to the commencement of the session.
 
 #### Repositories
 The link to the repositories are here: not updated yet.
