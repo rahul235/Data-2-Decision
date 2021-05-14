@@ -7,7 +7,7 @@ This is a repository for data science using Python and R. The page is under cons
 The link to the repositories are here:
 
 ```markdown
-* Here is the [repository link](https://github.com/rahul235/ML_using_Python) for ML using Python
+* Here is the [repository link](https://github.com/rahul235/ML_using_Python/) for ML using Python
 ```
 
 You can reach me at rahul235@gmail.com
