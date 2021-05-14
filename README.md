@@ -1,3 +1,14 @@
+---
+layout: page
+title: "Machine Learning using R"
+output:
+    html_document:
+    toc: true # table of content true
+    toc_depth: 3  # upto three depths of headings (specified by #, ## and ###)
+    number_sections: true  ## if you want number sections at each table header
+permalink: https://rahul235.github.io/data2decisions
+---
+
 ## Welcome to the world of Decisions with Data
 This is a repository for data science using Python R & Julia. Few links to the material are updated however the page is still in development and will be updated in due course.
 
