@@ -28,7 +28,7 @@ The link to the repositories are here:
 * Here is the [repository link](https://github.com/rahul235/ML_using_Python/) for ML using Python.
 
 ### Machine Learning using R
-One wil need R and may need RStudio to work on data science project using R. The installations and repositories for working with R software are as below:
+One will need R and may need RStudio to work on data science project using R. The installations and repositories for working with R software are as below:
 
 #### Installations
 Participants should have latest version of R and R Studio installed on their system. First Install R and then R Studio. Latest version of the software can be found at: 
@@ -44,7 +44,7 @@ RStudio may not be needed if using jupyter notebook. `Anaconda with jupyter note
     > library(IRkernel) ## Invoke the package
     > IRkernel::installspec() ## Make Jupyter Notebook point to the R kernel
     
- The above coomands were tested in MacOs Big Sur 11.0.1:
+ The above commands were tested in MacOs Big Sur 11.0.1:
  
 ![image](JupyterR1.png)
 ![image](JupyterR2.png)
