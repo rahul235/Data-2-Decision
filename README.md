@@ -1,9 +1,11 @@
 ---
 layout: page
+title: "Machine Learning"
+permalink:https://rahul235.github.io/data2decisions
 output:
     html_document:
     toc: true
-    toc_depth:3
+    toc_depth: 3
 ---
 
 ## Welcome to the world of Decisions with Data
