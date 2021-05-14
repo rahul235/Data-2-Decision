@@ -4,7 +4,6 @@ output:
     html_document:
     toc:true
     toc_depth:3
-    number_sections:true
 ---
 
 ## Welcome to the world of Decisions with Data
