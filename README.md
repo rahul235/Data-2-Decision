@@ -1,11 +1,10 @@
 ---
 layout: page
-title: "ML"
 output:
     html_document:
-    toc: true # table of content true
-    toc_depth: 3  # upto three depths of headings (specified by #, ## and ###)
-    number_sections: true  ## if you want number sections at each table header
+    toc:true
+    toc_depth:3
+    number_sections:true
     
 ---
 
