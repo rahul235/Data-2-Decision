@@ -36,16 +36,21 @@ Participants should have latest version of R and R Studio installed on their sys
   > *  R software can be downloaded from this [link](https://cran.r-project.org/). Download the version specific to your operating system.
   > *  RStudio can be downloaded [here](https://www.rstudio.com/products/rstudio/download)
   
-`_Anaconda with jupyter notebook can also be used to work with R software._` RStudio may not be needed if using jupyter notebook.
+RStudio may not be needed if using jupyter notebook. `Anaconda with jupyter notebook can also be used to work with R software.` 
 
 > * Install operating system specific version of [R software](https://cran.r-project.org/)
 > * open R console (or open R through Terminal in Mac). Enter the below command:
 
-    * install.packages('IRkernel’) ##install the IR kernel
-    * library(IRkernel) ## Invoke the package
-    * IRkernel::installspec() ## Make Jupyter Notebook point to the R kernel
+    > install.packages('IRkernel’) ##install the IR kernel
+    > library(IRkernel) ## Invoke the package
+    > IRkernel::installspec() ## Make Jupyter Notebook point to the R kernel
+    
+ The above coomands were tested in MacOs Big Sur 11.0.1:
+ 
+![image](JupyterR1.png)
+![image](JupyterR2.png)
 
-open Jupyter Notebook and you can write your R script by using R kernel
+Now you can open Jupyter Notebook and you can write your R script by using R kernel.
 
 #### Repositories
 * R software for statistical analysis is yet another popular langauge for working on data science project. Here is the  [repository link](https://github.com/rahul235/ML_using_R/) for Machine learning using R.
@@ -76,8 +81,6 @@ Participants are expected to resolve any installation issues of the software pri
 * You are ready to work with Julia!!! Launch Jupyter Notebook and open the Julia Kernel.
 
 Platform specific issue visit: https://julialang.org/downloads/platform/
-
-
 
 #### Repositories
 The link to the repositories are here: not updated yet.
