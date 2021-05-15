@@ -41,7 +41,7 @@ locale: "en-US" #en-GB, en
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
+#permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /blog/page:num/
 timezone: Asia/Calcutta
