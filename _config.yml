@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Kumar Rahul"
   avatar : "/assets/images/profile_pic.jpg"
-  bio    : "Passionate about identifying patterns in randomness!!!"
+  bio    : "Passionate about identifying pattern in randomness!!!"
   location : "Karnataka, India"
   links:
     - label: "Website"
