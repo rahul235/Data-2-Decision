@@ -53,8 +53,8 @@ include:
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
  exclude:
-    - README.md
-    - R.md
+    - README
+    - R
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
