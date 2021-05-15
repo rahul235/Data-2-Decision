@@ -5,7 +5,7 @@ output:
     html_document:
     toc: true
     toc_depth: 2
-permalink: https://rahul235.github.io/data2decisions/R
+permalink:https://rahul235.github.io/data2decisions/R
 ---
 
 ## Machine Learning using R
