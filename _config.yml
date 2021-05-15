@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Statistics & Machine Learning repository. 
 twitter_username: tisrahul
 github_username: rahul235
-minimal_mistakes_skin: default
+minimal_mistakes_skin: default # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
 
 # Build settings
