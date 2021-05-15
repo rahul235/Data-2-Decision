@@ -3,8 +3,8 @@ permalink: /about/
 title: "About"
 layout: splash
 classes:
-  - wide
   - landing
+  - wide
   - dark-theme
 ---
 
