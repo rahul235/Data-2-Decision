@@ -1,6 +1,9 @@
 ---
 permalink: /home/
 title: "Home"
+toc: true
+toc_label: "Index"
+toc_icon: "cog"
 ---
 
 ## Welcome to the world of Decisions with Data
