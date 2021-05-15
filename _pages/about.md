@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+classes: wide
 ---
 
 Rahul Kumar is an alumnus of NIT Jaipur and IIM Bangalore. He has more than 15 years of experience spanning across software development, business consulting, analytical modelling and leading process improvement initiatives. He started his career in Information Technology sector and worked in Satyam Computers, Nokia Siemens and Deloitte Consulting before venturing into his own business. He co-founded a start-up ARIMA Research in Jun’14 and was involved in internal operations and consulting engagement for various clients till Nov’15. He co-founded AwesomeStats Consulting, in Aug’18, which is primarily focused towards trainings and consulting in the field of data science.
