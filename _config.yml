@@ -12,15 +12,30 @@
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# in the templates via {{ site.myvariable }}. 
+# https://mmistakes.github.io/minimal-mistakes/docs/configuration/
+
 title: Statistics & Machine Learning
+subtitle: # site tagline that appears below site title in masthead
 email: rahul235@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Statistics & Machine Learning repository. 
 twitter_username: tisrahul
 github_username: rahul235
-minimal_mistakes_skin: default # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "contrast" # default, "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
+search_full_content      : # true, false (default)
+search_provider          : # lunr (default), algolia, google
+algolia:                   #need account on algolia to get the below details.
+  application_id         : # YOUR_APPLICATION_ID
+  index_name             : # YOUR_INDEX_NAME
+  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : # true (default), false
+google:
+  search_engine_id       : 464a18c82e0157714
+  instant_search         : true # false (default), true
+locale: "en-US" #en-GB, en
+#url: "https://rahul235.github.io/"
 
 # Build settings
 markdown: kramdown
@@ -59,6 +74,7 @@ author:
   name   : "Kumar Rahul"
   avatar : "/assets/images/PhotoRahul_new.png"
   bio    : "Passionate about uncovering patterns from data!!!"
+  location : "Karnataka, India"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -97,6 +113,9 @@ defaults:
       comments: true
       share: true
       related: true
+      show_dates: true
+      date_format: "%Y-%m-%d"
+      read_time: true
   # _pages
   - scope:
       path: "_pages"
