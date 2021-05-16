@@ -165,7 +165,6 @@ In case, one wants to implement partial F test for feature selection, `stepWise(
         > stepWise(model, alpha.enter = 0.15, alpha.remove = 0.15, full = FALSE)
         > stepWiseBack(model, alpha.remove = 0.15, alpha.enter = 0.15, full = FALSE)
         
-Each of the above functions expects a model object to be passed on which the variable selection strategy can be applied.
-Based on the objective set forth for making a regression model for the IPL case, one can infer that the R provides various model selection stratgies whereas in order to achieve similar outcome through Python, one may have to write a custom function.
-We may not have provided an exhaustive list of packages which can help achieve this objective in R or in Python. However, R seems to have an edge as far as implementing the statistical concepts and building an inferential model is concerned.
-In the next article, we will take up a detailed comparision of building **machine learning** models in Python and R using a specific dataset.
+Each of the above functions expects a model object to be passed on which the variable selection strategy can be applied. Based on the objective set forth for making a regression model for the IPL case, one can infer that the R provides various model selection stratgies whereas in order to achieve similar outcome through Python, one may have to write a custom function. We may not have provided an exhaustive list of packages which can help achieve this objective in R or in Python. However, R seems to have an edge as far as implementing the statistical concepts and building an inferential model is concerned.
+
+In the next article, we will take up a detailed comparision of building **machine learning** models in Python and R.
