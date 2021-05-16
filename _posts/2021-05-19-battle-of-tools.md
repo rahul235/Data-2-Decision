@@ -144,26 +144,26 @@ Some of the popular packages for building statistical learning model in R:
 We are not demonstrating model building using R or Python. However, if one needs to build a full model using all the performance metrics (variables) for understanding the sold price of a player in IPL as well as to understand the statistically significant variable, the packages mentioned above in Python and R can be used to develop such a model.
 In Python, using `statsmodel.formula.api`:
 
-> `regressor_OLS  = smf.ols(formula='Y_variable ~ X_variable', data=df).fit()`
+    > regressor_OLS  = smf.ols(formula='Y_variable ~ X_variable', data=df).fit()
 
 In R, using `stats`:
 
-> `regressor_OLS  = lm(formula='Y_variable ~ X_variable', data=df)`
+    > regressor_OLS  = lm(formula='Y_variable ~ X_variable', data=df)
         
 The only issue with the above approach to build a regression model; it will have significant and insignificant variable as a part of the final model.
 Are there some packages which can apply the strategy for variable selection discussed in above section? It seems there is no way to apply the partial F test strategy, AIC or BIC for building a step wise model in Python. The only way to achieve, it will be to write a custom function which removed statistically insignificant variables. This holds true for multiple linear regression as well as for logistic regression.
 However, there are inbuilt functions `step()` as a part of the `stats` package and `stepAIC()` as a part of the `MASS` package which can help in implementing AIC as a criteria for variable selection:
 
-> `step(object, scope, scale = 0, direction = c("both", "backward", "forward"), trace = 1, keep = NULL, steps = 1000, k = 2, ...)`
-> `stepAIC(object, scope, scale = 0, direction = c("both", "backward", "forward"), trace = 1, keep = NULL, steps = 1000, use.start = FALSE,
-        k = 2, ...)`
+    > step(object, scope, scale = 0, direction = c("both", "backward", "forward"), trace = 1, keep = NULL, steps = 1000, k = 2, ...)
+    > stepAIC(object, scope, scale = 0, direction = c("both", "backward", "forward"), trace = 1, keep = NULL, steps = 1000, use.start = FALSE,
+        k = 2, ...)
 
 In case, one wants to implement partial F test for feature selection, `stepWise()` function from `mixlm` provides an option to do so:
 
-> `forward(model, alpha = 0.2, full = FALSE, force.in)`
-> `backward(model, alpha = 0.2, full = FALSE, hierarchy = TRUE, force.in)`
-> `stepWise(model, alpha.enter = 0.15, alpha.remove = 0.15, full = FALSE)`
-> `stepWiseBack(model, alpha.remove = 0.15, alpha.enter = 0.15, full = FALSE)`
+    > forward(model, alpha = 0.2, full = FALSE, force.in)
+    > backward(model, alpha = 0.2, full = FALSE, hierarchy = TRUE, force.in)
+    > stepWise(model, alpha.enter = 0.15, alpha.remove = 0.15, full = FALSE)
+    > stepWiseBack(model, alpha.remove = 0.15, alpha.enter = 0.15, full = FALSE)
         
 Each of the above functions expects a model object to be passed on which the variable selection strategy can be applied. Based on the objective set forth for making a regression model for the IPL case, one can infer that the R provides various model selection stratgies whereas in order to achieve similar outcome through Python, one may have to write a custom function. We may not have provided an exhaustive list of packages which can help achieve this objective in R or in Python. However, R seems to have an edge as far as implementing the statistical concepts and building an inferential model is concerned.
 
