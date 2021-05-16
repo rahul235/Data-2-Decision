@@ -1,7 +1,6 @@
 ---
 permalink: /home/
 title: "Home"
-layout: home
 toc: true
 toc_label: "Index"
 toc_icon: "cog"
