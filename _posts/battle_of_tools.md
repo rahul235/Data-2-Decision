@@ -66,10 +66,10 @@ TIOBE programming community index is a measure of popularity of programming lang
 
 Python as a language of choice sits at 4th position compared to 18th position of R as a language. Popularity of MATLAB as a tool for numerical analysis has picked up over the years and is a ever increasing. However the usage of MATLAB is in many other fields and contributes to its popularity. We will restrict the scope of comparison to Python and R. Let us look at the popularity of Python and R over the years as well:
 
-![image](/assets/images/Python_tiobe.PNG)
+![image](/assets/images/Python_tiobe.png "Python Tiobe Ranking")
 
 
-![image](/assets/images/R_tiobe.PNG)
+![image](/assets/images/R_tiobe.png "R Tiobe Ranking")
 
 The TIOBE Index and the trend from 2001 onwards, may make the python community ecstatic. At the same time, it may feel like a doomsday for R followers. However, let us read the above TIOBE Index with a more pragamtic approach. 
 
