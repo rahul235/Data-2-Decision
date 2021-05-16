@@ -4,9 +4,9 @@ main:
   - title: "Python-Resource"
     url: /python/
   - title: "R-Resource"
-    url: /R/
+    url: /r/
   - title: "Julia-Resource"
-    url: /Julia/
+    url: /julia/
   - title: "BlogByYear"
     url: /posts/
   - title: "BlogByCategories"
