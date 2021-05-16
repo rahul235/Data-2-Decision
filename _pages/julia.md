@@ -1,3 +1,11 @@
+---
+permalink: /julia/
+title: "Julia"
+toc: true
+toc_label: "Index"
+toc_icon: "cog"
+---
+
 ## Machine Learning using Julia
 One will need to have anaconda framework  for working on data science project using Julia. The installations and repositories for using Julia software are as below:
 
@@ -17,7 +25,7 @@ Participants are expected to resolve any installation issues of the software pri
 * Download the OS specific version from [this link](https://julialang.org/downloads/). Once installation is complete, open Julia command line/prompt. 
 * To add julia to Jupyter Notebook, type “using Pkg” on the Julia command prompt. Next, type “Pkg.add(“IJulia”) on the Julia command prompt and let the installation finish.
 
-![image](Julia_Add.png)
+![image](/assets/image/Julia_Add.png)
 
 * You are ready to work with Julia!!! Launch Jupyter Notebook and open the Julia Kernel.
 
