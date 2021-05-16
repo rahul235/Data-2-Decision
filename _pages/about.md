@@ -1,8 +1,7 @@
 ---
 permalink: /about/
 title: "Hi there!!!"
-classes:
-  - wide
+classes: wide
 ---
 
 I am Rahul; almuni of NIT Jaipur, IIM Bangalore and now a research scholar, in Quantitative Management area, at IIM Kozikhode. I have spent over 16 years of my life working in corporate and academia, however still passionate about working with data and trying new stuffs;-). I worked with the likes of Satyam computers, Nokia Siemens and Deloitte Consulting but the urge to explore the uncharted territory led to few start-ups. Few failed and some saw the light of the day!!! Though not very successful in new ventures but bags full of learnings and shortcomings.  Currently, I work as a Freelancer as well as a founding member of AwesomeStats Consulting; a company, run by few passionate folks, which is primarily focused towards trainings and consulting in the field of data science.
