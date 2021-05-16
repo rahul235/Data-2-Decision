@@ -2,7 +2,7 @@
 title: "Battle of tools"
 last_modified_at: 2021-05-19T16:20:02-05:00
 categories:
-  - article
+  - blog
 tags:
   - generic
   - python
