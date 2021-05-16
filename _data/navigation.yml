@@ -7,11 +7,11 @@ main:
     url: /r/
   - title: "Julia-Resource"
     url: /julia/
-  - title: "BlogByYear"
+  - title: "PostsByYear"
     url: /posts/
-  - title: "BlogByCategories"
+  - title: "PostsByCategories"
     url: /categories/
-  - title: "BlogByTags"
+  - title: "PostsByTags"
     url: /tags/
-  - title: "Me"
+  - title: "About Me"
     url: /about/
