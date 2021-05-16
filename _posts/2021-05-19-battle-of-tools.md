@@ -1,6 +1,7 @@
 ---
 title: "Battle of tools"
 last_modified_at: 2021-05-19T16:20:02-05:00
+classes: wide
 categories:
   - article
 tags:
@@ -43,26 +44,25 @@ TIOBE programming community index is a measure of popularity of programming lang
 |May 2021	|May2020	|Programming Language|	Ratings|	Change|
 |:----|----|:-----|:------------|-----:|
 |1|	1|C|	13.38%|-3.62%|
-|2|	2|Python|11.87%|+2.75%|
-|3|	3|Java|11.74%|-4.54%|
-|4|	5|C++|7.81%	|+1.69%|
-|5|6|C#|	4.41%|	+0.12%|
-|6|4|Visual Basic|4.02%|-0.16%|
+|2|	3|Python|11.87%|+2.75%|
+|3|	2|Java|11.74%|-4.54%|
+|4|	4|C++|7.81%	|+1.69%|
+|5|5|C#|	4.41%|	+0.12%|
+|6|6|Visual Basic|4.02%|-0.16%|
 |7|7|JavaScript|2.45%|-0.23%|
-|8|8|Assembly language|2.43%|+1.31%|
-|9|-|PHP|1.86%|-0.63%|
-|10|14|SQL|1.71%|-0.38%|
-|11|11|Ruby|1.50%|	+0.48%|
-|12|12|	Classic Visual Basic Pascal|1.41%|+0.53%|
-|13|17|	R|1.38%|-0.46%|
-|14|18|	Groovy|1.25%	|+0.96%|
-|15|10|	Matlab|1.23%|+0.06%|
-|16|9|Go|1.22|-0.05%|
-|17|16|	Delphi/Object Pascal|1.21%|+0.60%|
-|18|15|	Swift|1.14%|-0.65%|
-|19|13|	Perl Basic|1.04%	|+0.16%|
-|20|21|Fortran|0.83%|+0.51%|
-[Table 1: TIOBE Index 2018](https://www.tiobe.com/tiobe-index/)
+|8|14|Assembly language|2.43%|+1.31%|
+|9|8|PHP|1.86%|-0.63%|
+|10|9|SQL|1.71%|-0.38%|
+|11|15|Ruby|1.50%|	+0.48%|
+|12|17|	Classic Visual Basic Pascal|1.41%|+0.53%|
+|13|10|	R|1.38%|-0.46%|
+|14|38|	Groovy|1.25%	|+0.96%|
+|15|13|	Matlab|1.23%|+0.06%|
+|16|12|Go|1.22|-0.05%|
+|17|23|	Delphi/Object Pascal|1.21%|+0.60%|
+|18|11|	Swift|1.14%|-0.65%|
+|19|18|	Perl Basic|1.04%	|+0.16%|
+|20|34|Fortran|0.83%|+0.51%|
 
 Python as a language of choice sits at 4th position compared to 18th position of R as a language. Popularity of MATLAB as a tool for numerical analysis has picked up over the years and is a ever increasing. However the usage of MATLAB is in many other fields and contributes to its popularity. We will restrict the scope of comparison to Python and R. Let us look at the popularity of Python and R over the years as well:
 
