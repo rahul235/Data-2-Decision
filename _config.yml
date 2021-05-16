@@ -111,10 +111,10 @@ defaults:
 
 category_archive:
   type: liquid
-  path: /posts/categories/
+  path: /categories/
 tag_archive:
   type: liquid
-  path: /posts/tags/
+  path: /tags/
 
 theme: minimal-mistakes-jekyll
 #theme: jekyll-theme-cayman
