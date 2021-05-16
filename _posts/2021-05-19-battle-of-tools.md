@@ -39,7 +39,7 @@ The queries are never ending. While we may not have one right answer to the ques
 [R](https://en.wikipedia.org/wiki/R_(programming_language)) is an implementation of the S programming language combined with lexical scoping semantics inspired by Scheme (S language). S was created by John Chambers in 1976, while at Bell Labs. R was created by Ross Ihaka and Robert Gentleman at the University of Auckland, New Zealand, and is currently developed by the R Development Core Team, of which Chambers is a member. The project was conceived in 1992, with an initial version released in 1995 and a stable beta version in 2000.
 
 ### Technological Proficiency
-TIOBE programming community index is a measure of popularity of programming languages, created and maintained by the TIOBE Company based in Eindhoven, the Netherlands. TIOBE stands for “The Importance of Being Earnest” which is taken from the name of a comedy play written by Oscar Wilde at the end of the nineteenth century. The index is calculated from the number of search engine results for queries containing the name of the language.
+TIOBE programming community index is a measure of popularity of programming languages, created and maintained by the TIOBE Company based in Eindhoven, the Netherlands. TIOBE stands for “The Importance of Being Earnest” which is taken from the name of a comedy play written by Oscar Wilde at the end of the nineteenth century. The index is calculated from the number of search engine results for queries containing the name of the language.  The [tiobe index](https://www.tiobe.com/tiobe-index/) for May 2021 is:
 
 |May 2021	|May2020	|Programming Language|	Ratings|	Change|
 |:----|----|:-----|:------------|-----:|
@@ -64,7 +64,7 @@ TIOBE programming community index is a measure of popularity of programming lang
 |19|18|	Perl Basic|1.04%	|+0.16%|
 |20|34|Fortran|0.83%|+0.51%|
 
-Python as a language of choice sits at 4th position compared to 18th position of R as a language. Popularity of MATLAB as a tool for numerical analysis has picked up over the years and is a ever increasing. However the usage of MATLAB is in many other fields and contributes to its popularity. We will restrict the scope of comparison to Python and R. Let us look at the popularity of Python and R over the years as well:
+Python as a language of choice sits at 2nd position compared to 13th position of R as a language. Popularity of MATLAB as a tool for numerical analysis has picked up over the years and is a ever increasing. However the usage of MATLAB is in many other fields and contributes to its popularity. We will restrict the scope of comparison to Python and R. Let us look at the popularity of Python and R over the years as well:
 
 ![image](/assets/images/Python_tiobe.png "Python Tiobe Ranking")
 
