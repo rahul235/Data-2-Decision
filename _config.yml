@@ -59,6 +59,7 @@ author:
   name   : "Kumar Rahul"
   avatar : "/assets/images/profile_pic.jpg"
   bio    : "Passionate about identifying pattern in randomness!!!"
+  location: "Karnataka, India"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -69,6 +70,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:rahul235@gmail.com"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
