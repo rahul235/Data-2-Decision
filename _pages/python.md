@@ -1,3 +1,11 @@
+---
+permalink: /python/
+title: "Python"
+toc: true
+toc_label: "Index"
+toc_icon: "cog"
+---
+
 ## Machine Learning using Python
 One will need to have anaconda framework  for working on data science project using Python. The installations and repositories for using Python software are as below:
 
