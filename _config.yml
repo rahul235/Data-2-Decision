@@ -116,5 +116,5 @@ tag_archive:
   type: liquid
   path: /tags/
 
-theme: minimal-mistakes-jekyll
-#theme: jekyll-theme-cayman
+#theme: minimal-mistakes-jekyll
+theme: jekyll-theme-minimal
