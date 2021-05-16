@@ -9,7 +9,7 @@ toc_icon: "cog"
 ## Machine Learning using Julia
 One will need to have anaconda framework  for working on data science project using Julia. The installations and repositories for using Julia software are as below:
 
-### Installations:
+### Installations
 
 1. Latest version of the anaconda software can be found at: 
 
