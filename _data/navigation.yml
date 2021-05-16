@@ -1,12 +1,17 @@
 main:
   - title: "Home"
     url: /home/
-  - title: "Posts"
+  - title: "Python-Resource"
+    url: /python/
+  - title: "R-Resource"
+    url: /R/
+  - title: "Julia-Resource"
+    url: /Julia/
+  - title: "BlogByYear"
     url: /posts/
-    sublinks: 
-      - title: "Categories"
-        url: /posts/categories/
-      - title: "Tags"
-        url: /posts/tags/
-  - title: "About"
+  - title: "BlogByCategories"
+    url: /categories/
+  - title: "BlogByTags"
+    url: /tags/
+  - title: "Me"
     url: /about/
