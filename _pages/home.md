@@ -1,9 +1,9 @@
 ---
 permalink: /home/
 title: "Home"
-toc: true
-toc_label: "Index"
-toc_icon: "cog"
+#toc: true
+#toc_label: "Index"
+#toc_icon: "cog"
 ---
 
 ## Decisions with Data
