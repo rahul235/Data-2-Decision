@@ -6,4 +6,4 @@ layout: default
 author_profile: true
 ---
 
-[a relative link](/_posts/home.md)
+[a relative link](/blog/test.md)
