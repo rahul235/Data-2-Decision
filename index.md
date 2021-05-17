@@ -6,4 +6,7 @@ layout: default
 author_profile: true
 ---
 
-[a relative link](/blog/test.md)
+{% include_relative /_posts/home.md %}
+
+{% capture my_include %}{% include /_posts/home.md %}{% endcapture %}
+{{ my_include | markdownify }}
