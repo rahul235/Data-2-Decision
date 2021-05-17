@@ -7,11 +7,13 @@ main:
     url: /r/
   - title: "Julia-Resource"
     url: /julia/
-  - title: "PostsByYear"
+  - title: "Posts"
     url: /posts/
-  - title: "PostsByCategories"
-    url: /categories/
-  - title: "PostsByTags"
-    url: /tags/
+    children:
+    - title: "PostsByCategories"
+      url: /categories/
+    - title: "PostsByTags"
+      url: /tags/
   - title: "About Me"
     url: /about/
+
