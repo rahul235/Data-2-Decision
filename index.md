@@ -6,6 +6,7 @@
 title: "Home"
 #layout: default
 author_profile: true
+classes: wide
 ---
 
 ## Decisions with Data
