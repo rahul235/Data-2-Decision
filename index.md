@@ -6,6 +6,4 @@ layout: default
 author_profile: true
 ---
 
-{% include_relative test2.md %}
-
 {% include_relative /_posts/home.md %}
