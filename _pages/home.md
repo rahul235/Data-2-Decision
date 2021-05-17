@@ -1,6 +1,7 @@
 ---
 permalink: /home/
 title: "Home"
+classes: wide
 #toc: true
 #toc_label: "Index"
 #toc_icon: "cog"
