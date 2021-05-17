@@ -5,7 +5,7 @@
 
 title: "Home"
 #layout: default
-author_profile: true
+#author_profile: true
 classes: wide
 ---
 
