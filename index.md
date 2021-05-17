@@ -6,4 +6,6 @@ layout: default
 author_profile: true
 ---
 
-{% include_relative /_posts/home.md %}
+<script src="/_posts/home.md"></script>
+
+
