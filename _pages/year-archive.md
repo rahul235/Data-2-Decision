@@ -6,5 +6,3 @@ author_profile: true
 sidebar:
   nav: "foo"
 ---
-
-{% include nav_list nav="foo" %}
