@@ -4,8 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: "Home"
-#layout: default
-#author_profile: true
+layout: home
+author_profile: true
 classes: wide
 ---
 
