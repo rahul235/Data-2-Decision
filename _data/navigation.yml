@@ -12,11 +12,13 @@ main:
   - title: "About Me"
     url: /about/
 foo:
+  - title: "Posts"
+    url: /posts/
     children:
-    - title: "PostsByYear"
-      url: /posts/
-    - title: "PostsByCategories"
-      url: /categories/
-    - title: "PostsByTags"
-      url: /tags/
+      - title: "PostsByYear"
+        url: /posts/
+      - title: "PostsByCategories"
+        url: /categories/
+      - title: "PostsByTags"
+        url: /tags/
 
