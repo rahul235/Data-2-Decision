@@ -18,7 +18,6 @@ One will need to have anaconda framework  for working on data science project us
 > * For Linux, use this link for [installation](https://docs.anaconda.com/anaconda/install/linux) 
 
 More about anaconda can be found at https://docs.anaconda.com. 
-Participants are expected to resolve any installation issues of the software prior to the commencement of the session.
 
 2. Download Julia:
 
