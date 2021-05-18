@@ -1,9 +1,20 @@
 
-Earnings manipulation Accrual manipulation 
-Data analytics Bagging Boosting Gaussian model 
-Supervised learning Unsupervised learning 
-Ensemble methods Sampling Simulation 
+---
+title: "Battle of tools"
+last_modified_at: 2018-12-14T11:20:00-06:00
+classes: wide
+categories:
+  - publication
+tags:
+  - ensemble methods
+  - bagging
+  - boosting
+  - r
+---
+
 ## Spotting Earnings Manipulation: Using Machine Learning for Financial Fraud Detection
+
+Rahul K., Seth N., Dinesh Kumar U. (2018) Spotting Earnings Manipulation: Using Machine Learning for Financial Fraud Detection. In: Bramer M., Petridis M. (eds) Artificial Intelligence XXXV. SGAI 2018. Lecture Notes in Computer Science, vol 11311. Springer, Cham. https://doi.org/10.1007/978-3-030-04191-5_29
 
 **Abstract**
 
@@ -19,3 +30,5 @@ superiority of fairly simple boosting models whilst commenting on the shortfall 
 The paper makes two major contributions: (i) a functional contribution of suggesting an easily deployable strategy to identify high risk companies; 
 (ii) a methodological contribution of suggesting a simulation-based sampling approach that can be applied in other cases of highly imbalanced data for 
 utilizing the entire dataset in modeling.
+
+More at [Springer, Cham](https://doi.org/10.1007/978-3-030-04191-5_29)
