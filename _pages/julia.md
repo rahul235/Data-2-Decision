@@ -28,8 +28,8 @@ Latest version of the Julia software can be found at:
 
 Install Julia after the download and open Julia command line/prompt. In  MacOS you can open terminal and type 'julia' to open the julia command prompt.To add julia to Jupyter Notebook, type the following on julia prompt:
 
-    > “using Pkg” 
-    > “Pkg.add(“IJulia”)
+    > using Pkg 
+    > Pkg.add(“IJulia”)
 
 ![image](/assets/images/Julia_Add.png)
 
