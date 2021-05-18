@@ -1,6 +1,5 @@
-
 ---
-title: "Battle of tools"
+title: "Earnings Manipulation"
 last_modified_at: 2018-12-14T11:20:00-06:00
 classes: wide
 categories:
