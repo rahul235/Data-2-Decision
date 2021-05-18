@@ -11,13 +11,6 @@ tags:
   - boosting
   - r
 ---
-
-## Spotting Earnings Manipulation: Using Machine Learning for Financial Fraud Detection
-
-Rahul K., Seth N., Dinesh Kumar U. (2018) Spotting Earnings Manipulation: Using Machine Learning for Financial Fraud Detection. In: Bramer M., Petridis M. (eds) Artificial Intelligence XXXV. SGAI 2018. Lecture Notes in Computer Science, vol 11311. Springer, Cham. https://doi.org/10.1007/978-3-030-04191-5_29
-
-**Abstract**
-
 Earnings manipulation and accounting fraud leads to reduced firm valuation in the long run and a public distrust in the company and its management. 
 Yet, manipulation of accruals to hide liabilities and inflate earnings has been a long-standing fraudulent conduct amongst many listed firms. 
 As auditing is time consuming and restricted to a sample of entries, fraud is either not detected or detected belatedly. We believe that supervised 
@@ -30,5 +23,7 @@ superiority of fairly simple boosting models whilst commenting on the shortfall 
 The paper makes two major contributions: (i) a functional contribution of suggesting an easily deployable strategy to identify high risk companies; 
 (ii) a methodological contribution of suggesting a simulation-based sampling approach that can be applied in other cases of highly imbalanced data for 
 utilizing the entire dataset in modeling.
+
+Rahul K., Seth N., Dinesh Kumar U. (2018) Spotting Earnings Manipulation: Using Machine Learning for Financial Fraud Detection. In: Bramer M., Petridis M. (eds) Artificial Intelligence XXXV. SGAI 2018. Lecture Notes in Computer Science, vol 11311. Springer, Cham. https://doi.org/10.1007/978-3-030-04191-5_29
 
 More at [Springer, Cham](https://doi.org/10.1007/978-3-030-04191-5_29)
