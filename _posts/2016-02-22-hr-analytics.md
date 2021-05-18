@@ -14,9 +14,6 @@ tags:
   - python
   - r
 ---
-
-## Context
-
 ScaleneWorks People Solutions LLP (ScaleneWorks) has been a Bangalore based start-up that commenced its operations in the summer of 2010. ScaleneWorks 
 was conceived by a team of HR practitioners comprising Sanjay Shelvankar, Ashish Tiwari, and Sharon George who had already scripted successful corporate
 careers and were from three different areas of expertise such as technology consulting, talent acquisition and marketing. Their combined vision was to 
