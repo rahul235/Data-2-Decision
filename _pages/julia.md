@@ -14,9 +14,9 @@ One will need to have anaconda framework  for working on data science project us
 
 Latest version of the anaconda software can be found at: 
 
-    > For Windows, go to this [link](https://docs.anaconda.com/anaconda/install/windows.html) 
-    > [Install](https://docs.anaconda.com/anaconda/install/mac-os ) anacondat for MacOS.
-    > For Linux, use this link for [installation](https://docs.anaconda.com/anaconda/install/linux) 
+> * For Windows, go to this [link](https://docs.anaconda.com/anaconda/install/windows.html) 
+> * [Install](https://docs.anaconda.com/anaconda/install/mac-os ) anacondat for MacOS.
+> * For Linux, use this link for [installation](https://docs.anaconda.com/anaconda/install/linux) 
 
 More about anaconda can be found at this [page](https://docs.anaconda.com). 
 
@@ -24,7 +24,7 @@ More about anaconda can be found at this [page](https://docs.anaconda.com).
 
 Latest version of the Julia software can be found at:
 
-    > Download the OS specific version from [this link](https://julialang.org/downloads/). 
+> * Download the OS specific version from [this link](https://julialang.org/downloads/). 
 
 Once installation is complete, open Julia command line/prompt. In  MacOS you can open terminal and type 'julia' to open the julia command prompt.To add julia to Jupyter Notebook, type the following on julia prompt:
 
