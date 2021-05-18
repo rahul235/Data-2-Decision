@@ -1,5 +1,5 @@
 main:
-  #- title: "Home"
+  #- title: "Home" removed 18th may 2021. Index.html is the landing page. This was redundant.
   #  url: /home/
   - title: "Python-Resource"
     url: /python/
