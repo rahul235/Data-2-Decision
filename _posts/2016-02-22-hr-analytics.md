@@ -29,14 +29,9 @@ Business process re-engineering with its three tenets (i.e. people capability, p
 company to provide customers with an enterprise-class customized solution to address their talent acquisition challenges. They brought in deep domain 
 knowledge of how talent acquisition occurred in corporates and provided viable recommendations to its customers.
 
-## Business Challenge
+## Learning Objective
 
-Client service is all about the quality of the people involved in delivering business. However, one of the major challenges for Sanjay and his clients revolved
-around managing a quality workforce. Organizations spend tremendous amount of time and energy to create a homogenous environment where people thrive and succeed.
-Despite all the efforts to maintain an environment that is conducive, people leave organizations in search of better opportunities. In order to fill the vacuum,
-HR is bound to recruit new talent, thus forming a vicious circle in between attrition and recruitment; and in order to mitigate this, organizations keep 
-trying to bridge the gap by strengthening their recruitment processes and creating a culture of inclusivity. However, scalene works wanted to go beyond the process 
-aspect of human resource management and evaluate analytics driven approach to answer the following:
+Client service is all about the quality of the people involved in delivering business. However, one of the major challenges for Sanjay and his clients revolved around managing a quality workforce. Organizations spend tremendous amount of time and energy to create a homogenous environment where people thrive and succeed. Despite all the efforts to maintain an environment that is conducive, people leave organizations in search of better opportunities. In order to fill the vacuum, HR is bound to recruit new talent, thus forming a vicious circle in between attrition and recruitment; and in order to mitigate this, organizations keep  trying to bridge the gap by strengthening their recruitment processes and creating a culture of inclusivity. However, scalene works wanted to go beyond the process  aspect of human resource management and evaluate analytics driven approach to answer the following:
 
 1. What are the key drivers that influence the candidate joining/not-joining a company?
 2. What rules can be used to predict the renege (candidates accepting the job offer and not joining)?
