@@ -83,8 +83,11 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:rahul235@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin" fab fa-linkedin
+      url: "https://www.linkedin.com/in/rahul-singh-2a989111/"
     #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
+    #  icon: "fab fa-fw fa-instagram" fab fa-linkedin
     #  url: "https://instagram.com/"
 
 footer:
