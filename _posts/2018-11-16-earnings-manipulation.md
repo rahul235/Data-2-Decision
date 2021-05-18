@@ -6,6 +6,7 @@ categories:
   - publication
 tags:
   - ensemble methods
+  - machine learning
   - bagging
   - boosting
   - r
