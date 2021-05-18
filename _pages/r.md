@@ -11,8 +11,9 @@ One will need R and may need RStudio to work on data science project using R. Th
 
 ### Installation
 Participants should have latest version of R and R Studio installed on their system. First Install R and then R Studio. Latest version of the software can be found at: 
-  > *  R software can be downloaded from this [link](https://cran.r-project.org/). Download the version specific to your operating system.
-  > *  RStudio can be downloaded [here](https://www.rstudio.com/products/rstudio/download)
+
+  > *  Download and install the operating sysytem specific version of R software from this [link](https://cran.r-project.org/).
+  > *  RStudio can be downloaded [here](https://www.rstudio.com/products/rstudio/download). Once the download completes, install RStudio as well.
   
 RStudio may not be needed if using jupyter notebook. `Anaconda with jupyter notebook can also be used to work with R software.` 
 
