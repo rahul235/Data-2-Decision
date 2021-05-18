@@ -18,7 +18,7 @@ Latest version of the anaconda software can be found at:
 > * [Install](https://docs.anaconda.com/anaconda/install/mac-os ) anacondat for MacOS.
 > * For Linux, use this link for [installation](https://docs.anaconda.com/anaconda/install/linux) 
 
-More about anaconda can be found at this [page](https://docs.anaconda.com). 
+Install the application once the download completes. More about anaconda can be found at this [page](https://docs.anaconda.com). 
 
 * **`Download Julia`**
 
@@ -26,7 +26,7 @@ Latest version of the Julia software can be found at:
 
 > * Download the OS specific version from [this link](https://julialang.org/downloads/). 
 
-Once installation is complete, open Julia command line/prompt. In  MacOS you can open terminal and type 'julia' to open the julia command prompt.To add julia to Jupyter Notebook, type the following on julia prompt:
+Install Julia after the download and open Julia command line/prompt. In  MacOS you can open terminal and type 'julia' to open the julia command prompt.To add julia to Jupyter Notebook, type the following on julia prompt:
 
     > “using Pkg” 
     > “Pkg.add(“IJulia”)
