@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: "Home"
-layout: home
+layout: default
 author_profile: true
 classes: wide
 sidebar:
