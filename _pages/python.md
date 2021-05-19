@@ -21,4 +21,4 @@ More about anaconda can be found [here](https://docs.anaconda.com). Participants
 ### Repository
 The link to the repositories are here:
 
-* Here is the [repository link](https://github.com/rahul235/ML_using_Python/) for ML using Python.
+* Here is the [link](https://github.com/rahul235/ML_using_Python/archive/refs/tags/v1.0.zip) to dowload the repository for ML using Python.
