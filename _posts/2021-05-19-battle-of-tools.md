@@ -22,10 +22,10 @@ Technology is an evolving field and has eased the life of several data scientist
 And when there are so many tools in the market and all competing to prove their usefulness in the field of data science, it becomes an enduring question “Which is the best tool for a data science?” Off late, we have seen the surge in usage of open source tools like Python and R. It may not be an over statement to quote that “most of the professionals working in the field of data science either use Python or R”
 However the question still remains “which is best Python or R?” We come across questions by several students, corporate professionals and data science enthusiast:
 
-  > "I want to make a career in data science. Which tool should I focus on?"
-  > "Which tool should I use for data analysis, Python or R?
-  > "I have heard that python is a sought after language for building a career in data science. Many companies look for professionals with python skills. Is it true?
-  > "Can you suggest, if I should learn Python or R for doing data analysis?"
+  > * "I want to make a career in data science. Which tool should I focus on?"
+  > * "Which tool should I use for data analysis, Python or R?
+  > * "I have heard that python is a sought after language for building a career in data science. Many companies look for professionals with python skills. Is it true?
+  > * "Can you suggest, if I should learn Python or R for doing data analysis?"
 
 The queries are never ending. While we may not have one right answer to the questions like above, but the users of Python or R vouch for the supremacy of one over the other. The debate be- comes interesting if one looks at the TIOBE index which measures the popularity of programming languages.
 
