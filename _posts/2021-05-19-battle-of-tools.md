@@ -10,9 +10,6 @@ tags:
   - r
   - tools
 ---
-
-## The Battle of Tools for Data Science
-
 We are living in an era where computing moved from mainframes to personal computers to cloud. And while it happened, we started generating humongous amount of data. At the same time, the multi-folds increase in computing power also brought in advancement in application of algorithms which can be used to get insights from huge amount of data being generated.
 The future of decision making will greatly rely on data, and no industry will remain untouched by this development. Data, however, has its own set of issues and challenges; for the data available to be meaningful and concise, one needs to organize it efficiently.
 Though technology plays and important role in developing working solution, the foundation for building a robust analytical solution relies heavily on the clarity in fundamental concepts of data science as well as understanding business and domain related issues.
