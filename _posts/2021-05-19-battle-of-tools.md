@@ -61,7 +61,7 @@ TIOBE programming community index is a measure of popularity of programming lang
 |19|18|	Perl Basic|1.04%	|+0.16%|
 |20|34|Fortran|0.83%|+0.51%|
 
-Python as a language of choice sits at 2nd position compared to 13th position of R as a language. Popularity of MATLAB as a tool for numerical analysis has picked up over the years and is a ever increasing. However the usage of MATLAB is in many other fields and contributes to its popularity. We will restrict the scope of comparison to Python and R. Let us look at the popularity of Python and R over the years as well:
+Python as a language of choice sits at 2nd position compared to 13th position of R as a language. Popularity of MATLAB as a tool for numerical analysis has picked up over the years and stands at fifteenth position as on May 2021. However the usage of MATLAB is in many other fields and contributes to its popularity. However, we will narrow the scope of comparison between Python and R. Let us look at the popularity of Python and R over the years as well:
 
 ![image](/assets/images/Python_tiobe.png "Python Tiobe Ranking")
 
@@ -74,11 +74,7 @@ The TIOBE Index and the trend from 2001 onwards, may make the python community e
 > * The index covers searches in Google, Google Blogs, MSN, Yahoo!, Baidu, Wikipedia and YouTube. The index is updated once a month. 
 > * The site does claim that the number of web pages may reflect the number of skilled engineers, courses and jobs worldwide.
 
-The above bullet point summarizes and gives useful deductions. Let us keep the above statements in persepctive to understand the background of Python and R.
-
-### Comparision based on technological proficiency
-
-Popularity of python as a language is for varied reasons. Python is a developers language for general purpose programming. It started as a successor of Perl to write, build scripts and all kind of glue software. But gradually it entered other domains as well. Nowadays it is quite common to have Python running in large embedded systems. So it is very likely that Python will enter the top 3 and even might become the new number 1 in the long run.
+The above points summarize and give useful deductions and may suggests that popularity of python as a language is for varied reasons. Python is a developers language for general purpose programming. It started as a successor of Perl to write, build scripts and all kind of glue software. But gradually it entered other domains as well. Nowadays it is quite common to have Python running in large embedded systems. So it is very likely that Python will enter the top 3 and even might become the new number 1 in the long run.
 R is a programming language and free software environment for statistical computing and graphics that is supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis. 
 Both Python and R evolved during 1990s. Python has its root in Neatherlands while R finds its gensis in New Zealand. Apart from having origins in different geographies, the background and the purpose for which these software evolved seems to be completely different as well.
 Python is more robust and general purpose programming language where **data analysis** becomes a _drop in the ocean_ for the bigger things python has been envisioned to perform. Whereas R software, seems to be a language built for statisticians and to provide them an environment for statistical computing and visulaization. 
