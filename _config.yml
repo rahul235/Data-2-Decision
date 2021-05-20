@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}. https://mmistakes.github.io/minimal-mistakes/docs/configuration/
-#title: Statistics & Ml for AI
-title: "/assets/images/my_logo.png"
-subtitle: Statistics & Machine Learning Repository
-#logo: "/assets/images/my_logo.png"
+title: Stats & Ml for AI
+#title: "/assets/images/my_logo.png"
+subtitle: pattern beyond obvious...
+logo: "/assets/images/my_logo.png"
 email: rahul235@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Statistics & Machine Learning repository. 
