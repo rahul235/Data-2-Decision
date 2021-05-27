@@ -10,13 +10,9 @@ toc_icon: "cog"
 One will need to have anaconda framework  for working on data science project using Python. The installations and repositories for using Python software are as below:
 
 ### Installation
-Latest version of the software can be found at: 
+> * Operating system specific version of anaconda can be downloaded from this [link](https://www.anaconda.com/products/individual)
 
-> * For Windows, go to this [link](https://docs.anaconda.com/anaconda/install/windows.html) 
-> * [Install](https://docs.anaconda.com/anaconda/install/mac-os ) anaconda for MacOS.
-> * For Linux, use this link for [installation](https://docs.anaconda.com/anaconda/install/linux) 
-
-More about anaconda can be found [here](https://docs.anaconda.com). Participants are expected to resolve any installation issues of the software prior to the commencement of the session.
+Once downloaded, complete the installation.  Participants are expected to resolve any installation issues of the software prior to the commencement of the session. More about anaconda can be found [here](https://docs.anaconda.com).
 
 ### Repository
 The link to the repositories are here:
