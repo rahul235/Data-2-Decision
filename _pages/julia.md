@@ -35,5 +35,7 @@ Let the installation finish and you are ready to work with Julia!!! Launch Jupyt
 ### Repository
 The link to the repositories are here: not updated yet.
 
-### Useful link
+### Tutorial
+Here is a link to tutorial on Julia. The link also has other useful references.
+
 > * Here is the link to [tutorials](https://julialang.org/learning/tutorials/){:target="_blank"} in Julia.
