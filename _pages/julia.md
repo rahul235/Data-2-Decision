@@ -30,7 +30,7 @@ Install Julia after the download and open Julia command line/prompt. In  MacOS y
 
 ![image](/assets/images/Julia_Add.png)
 
-Let the installation finishYou are ready to work with Julia!!! Launch Jupyter Notebook and open the Julia Kernel. Platform specific issues can be accessed from [here](https://julialang.org/downloads/platform/). Participants are expected to resolve any installation issues of the software prior to the commencement of the session.
+Let the installation finish and you are ready to work with Julia!!! Launch Jupyter Notebook and open the Julia Kernel. Platform specific issues can be accessed from [here](https://julialang.org/downloads/platform/). Participants are expected to resolve any installation issues of the software prior to the commencement of the session.
 
 ### Repository
 The link to the repositories are here: not updated yet.
