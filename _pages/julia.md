@@ -11,7 +11,7 @@ One will need to have anaconda framework  for working on data science project us
 
 ### Installation
 
-` Step 1: Download Anaconda`
+`Step 1: Download Anaconda`
 
 > * Operating system specific version can be downloaded from this [link](https://www.anaconda.com/products/individual) 
 
