@@ -13,15 +13,15 @@ One will need to have anaconda framework  for working on data science project us
 
 `Step 1: Download Anaconda`
 
-> * Operating system specific version can be downloaded from this [link](https://www.anaconda.com/products/individual) 
+> * Operating system specific version can be downloaded from this [link](https://www.anaconda.com/products/individual){:target="_blank"}. 
 
-Install the application once the download completes. More about anaconda can be found at this [page](https://docs.anaconda.com). 
+Install the application once the download completes. More about anaconda can be found at this [page](https://docs.anaconda.com){:target="_blank"}. 
 
 `Step 2: Download Julia`
 
 Latest version of the Julia software can be found at:
 
-> * Download the OS specific version from [this link](https://julialang.org/downloads/). 
+> * Download the OS specific version from [this link](https://julialang.org/downloads/){:target="_blank"}. 
 
 Install Julia after the download and open Julia command line/prompt. In  MacOS you can open terminal and type 'julia' to open the julia command prompt.To add julia to Jupyter Notebook, type the following on julia prompt:
 
