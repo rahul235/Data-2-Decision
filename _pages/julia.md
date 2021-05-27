@@ -10,17 +10,14 @@ toc_icon: "cog"
 One will need to have anaconda framework  for working on data science project using Julia. The installations and repositories for using Julia software are as below:
 
 ### Installation
-* **`Download Anaconda`**
 
-Latest version of the anaconda software can be found at: 
+` Step 1: Download Anaconda`
 
-> * For Windows, go to this [link](https://docs.anaconda.com/anaconda/install/windows.html) 
-> * [Install](https://docs.anaconda.com/anaconda/install/mac-os ) anacondat for MacOS.
-> * For Linux, use this link for [installation](https://docs.anaconda.com/anaconda/install/linux) 
+> * Operating system specific version can be downloaded from this [link](https://www.anaconda.com/products/individual) 
 
 Install the application once the download completes. More about anaconda can be found at this [page](https://docs.anaconda.com). 
 
-* **`Download Julia`**
+`Step 2: Download Julia`
 
 Latest version of the Julia software can be found at:
 
