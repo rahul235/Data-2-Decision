@@ -51,7 +51,7 @@ Go to google drive, right click on the window and you will see google colab as a
 Click and launch google colab:
 ![image](/assets/images/google_colab_link8.png)
 
-All the machine learning (pandas, seaborn, sklearn etc.) and deep learning packages (including keras, tensor flow etc. are pre-installed. You are ready to work on your analysis.
+All the machine learning (pandas, seaborn, sklearn etc.) and deep learning packages (including keras, tensor flow etc.) are pre-installed. The environment is ready to work on your analysis.
 
 ### Repository
 The link to the repositories are here:
