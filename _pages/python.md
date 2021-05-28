@@ -46,7 +46,7 @@ Click on the link to install google colab:
 
 ![image](/assets/images/google_colab_link4.png)
 
-Follow the on-screen instructions to finish the installation.
+Follow the on-screen instructions (with default options checked/ticked) to finish the installation.
 
 `Step 2: Launch google colab`
 
