@@ -10,7 +10,7 @@ toc_icon: "cog"
 One will need R and may need RStudio to work on data science project using R. The installations and repositories for working with R software are as below:
 
 ### Installation - R with R Studio
-Participants should have latest version of R and R Studio installed on their system. First Install R and then R Studio. Latest version of the software can be found at: 
+One should have latest version of R and R Studio installed on their system. First Install R and then R Studio. Latest version of the software can be found at: 
 
   > *  Download and install the operating sysytem specific version of R software from this [link](https://cran.r-project.org/).
   > *  RStudio can be downloaded [here](https://www.rstudio.com/products/rstudio/download). Once the download completes, install RStudio as well.
@@ -40,7 +40,7 @@ RStudio may not be needed if using jupyter notebook. `Anaconda with jupyter note
 ![image](/assets/images/JupyterR1.png)
 ![image](/assets/images/JupyterR2.png)
 
-Now you can open Jupyter Notebook and you can write your R script by using R kernel. Participants are expected to resolve any installation issues of the software prior to the commencement of the session.
+Now you can open Jupyter Notebook and you can write your R script by using R kernel. One is expected to resolve any installation issues of the software. You may google about the installation issues and resolution may follow.
 
 ### Repository
 * R software for statistical analysis is yet another popular langauge for working on data science project. Here is the  [link](https://github.com/rahul235/ML_using_R/archive/refs/tags/v1.0.zip){:target="_blank"} to download the repository for Machine learning using R.
