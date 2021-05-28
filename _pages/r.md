@@ -40,7 +40,7 @@ RStudio may not be needed if using jupyter notebook. `Anaconda with jupyter note
 ![image](/assets/images/JupyterR1.png)
 ![image](/assets/images/JupyterR2.png)
 
-Now you can open Jupyter Notebook and you can write your R script by using R kernel. One is expected to resolve any installation issues of the software. You may google about the installation issues and resolution may follow.
+Now you can open Jupyter Notebook and you can write your R script by using R kernel. One is expected to resolve installation issues of the software, if any. You may google about the installation issues and resolution may follow.
 
 ### Repository
 * R software for statistical analysis is yet another popular langauge for working on data science project. Here is the  [link](https://github.com/rahul235/ML_using_R/archive/refs/tags/v1.0.zip){:target="_blank"} to download the repository for Machine learning using R.
