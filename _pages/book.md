@@ -1,5 +1,5 @@
 ---
-permalink: /book/
+permalink: /books/
 title: "Useful Books"
 toc: true
 toc_label: "Index"
