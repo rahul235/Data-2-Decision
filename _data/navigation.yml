@@ -9,6 +9,8 @@ main:
     url: /julia/
   - title: "Posts"
     url: /posts/
+  - title: "Books"
+    url: /books/
   - title: "About Me"
     url: /about/
 foo:
