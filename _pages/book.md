@@ -18,7 +18,7 @@ Note that this book is not intended to show the application of machine learning 
 
 ## Machine Learning using Python
 
-[![image](/assets/images/book_manu1.jpeg)](https://www.amazon.in/Machine-Learning-Python-Manaranjan-Pradhan/dp/8126579900 "Redirect to Amazon India"){:target="_blank"}
+[![image](/assets/images/book_manu1.jpg)](https://www.amazon.in/Machine-Learning-Python-Manaranjan-Pradhan/dp/8126579900 "Redirect to Amazon India"){:target="_blank"}
 
 This book is an add-on to the previous books. This book is not for learning basics of python or python programming. This is a book for python practitioner who wants to venture into the field of data science. Thus, having a solid foundation in the field of data science is a pre-requisite before one tries to apply the techqniues using python language. The book brings a balance between the theoretical concept and application of the concepts in python. Application of advanced machine learning concepts such as decision tree learning, random forest, boosting, recommended systems, and text analytics are covered.
  
