@@ -14,7 +14,7 @@ One may need to have anaconda framework for working on data science project usin
 
 Once downloaded, complete the installation.  One is expected to resolve installation issues of the software, if any. You may google about the installation issues and resolution may follow. More about anaconda can be found [here](https://docs.anaconda.com){:target="_blank"}.
 
-### Installation - Python with google colab
+### Installation - Python with Google Colab
 Colaboratory, or 'Colab' for short, allows you to write and execute Python in your browser, with
 
 * Zero configuration required
