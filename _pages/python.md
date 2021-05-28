@@ -21,7 +21,7 @@ Colaboratory, or 'Colab' for short, allows you to write and execute Python in yo
 * Free access to GPUs
 * Easy sharing
 
-It is particulary useful if you are working with deep learning problems and need to use GPUs. Whether you're a student, a data scientist or an AI researcher, Colab can make your work easier. Read more about [google colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#scrollTo=GJBs_flRovLc). Follow the steps to launch google colab:
+It is particulary useful if you are working with deep learning problems and need to use GPUs. Whether you're a student, a data scientist or an AI researcher, Colab can make your work easier. Read more about [google colab](https://colab.research.google.com/notebooks/intro.ipynb){:target = "_blank"}. Follow the steps to launch google colab:
 
 `Step 1: Create a new google account`
 This is optional and you may use existing google account as well. However, since one may use google drive to launch google colab, it may unnecessarily read all the files and folders which one may not want to show to others. Go to step 2, if you wish to use your existing google account for working with colab.
