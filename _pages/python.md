@@ -24,21 +24,26 @@ Colaboratory, or 'Colab' for short, allows you to write and execute Python in yo
 It is particulary useful if you are working with deep learning problems and need to use GPUs. Whether you're a student, a data scientist or an AI researcher, Colab can make your work easier. Read more about [google colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#scrollTo=GJBs_flRovLc). Follow the steps to launch google colab:
 
 `Step 1: Create a new google account`
-This is optional and you may use existing google account as well. However, since one may use google drive to launch google colab, it may unnecessarily read all the files and folders which one may not want to show to others.
+This is optional and you may use existing google account as well. However, since one may use google drive to launch google colab, it may unnecessarily read all the files and folders which one may not want to show to others. Go to step 2, if you wish to use your existing google account for working with colab.
 
 `Step 2: Launch google drive`
+
 Login with your google id and launch google drive:
 
 ![image](/assets/images/google_colab_link1.png)
 
 For first time user, google colab may not show up as a connected app. Write click on the drive and click on `connect more apps`:
+
 ![image](/assets/images/google_colab_link2.png)
 
 `Step 3: Search and install`
+
 Search for Colaboratory in the browser window: 
+
 ![image](/assets/images/google_colab_link3.png)
 
 Click on the link to install google colab:
+
 ![image](/assets/images/google_colab_link4.png)
 
 Follow the on-screen instructions to finish the installation.
@@ -46,9 +51,11 @@ Follow the on-screen instructions to finish the installation.
 `Step 2: Launch google colab`
 
 Go to google drive, right click on the window and you will see google colab as a new app:
+
 ![image](/assets/images/google_colab_link7.png)
 
 Click and launch google colab:
+
 ![image](/assets/images/google_colab_link8.png)
 
 All the machine learning (pandas, seaborn, sklearn etc.) and deep learning packages (including keras, tensor flow etc.) are pre-installed. The environment is ready to work on your analysis.
