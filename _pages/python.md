@@ -29,27 +29,27 @@ This is optional and you may use existing google account as well. However, since
 `Step 2: Launch google drive`
 Login with your google id and launch google drive:
 
-![image](/assets/images/google_colab_link1)
+![image](/assets/images/google_colab_link1.png)
 
 For first time user, google colab may not show up as a connected app. Write click on the drive and click on `connect more apps`:
-![image](/assets/images/google_colab_link2)
+![image](/assets/images/google_colab_link2.png)
 
 `Step 3: Search and install`
 Search for Colaboratory in the browser window: 
-![image](/assets/images/google_colab_link3)
+![image](/assets/images/google_colab_link3.png)
 
 Click on the link to install google colab:
-![image](/assets/images/google_colab_link4)
+![image](/assets/images/google_colab_link4.png)
 
 Follow the on-screen instructions to finish the installation.
 
 `Step 2: Launch google colab`
 
 Go to google drive, right click on the window and you will see google colab as a new app:
-![image](/assets/images/google_colab_link7)
+![image](/assets/images/google_colab_link7.png)
 
 Click and launch google colab:
-![image](/assets/images/google_colab_link8)
+![image](/assets/images/google_colab_link8.png)
 
 All the machine learning (pandas, seaborn, sklearn etc.) and deep learning packages (including keras, tensor flow etc. are pre-installed. You are ready to work on your analysis.
 
