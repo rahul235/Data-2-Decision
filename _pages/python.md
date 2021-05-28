@@ -48,7 +48,7 @@ Click on the link to install google colab:
 
 Follow the on-screen instructions (with default options checked/ticked) to finish the installation.
 
-`Step 2: Launch google colab`
+`Step 4: Launch google colab`
 
 Go to google drive, right click on the window and you will see google colab as a new app:
 
