@@ -9,7 +9,7 @@ toc_icon: "cog"
 ## Machine Learning using R
 One will need R and may need RStudio to work on data science project using R. The installations and repositories for working with R software are as below:
 
-### Installation - R and R Studio
+### Installation - R with R Studio
 Participants should have latest version of R and R Studio installed on their system. First Install R and then R Studio. Latest version of the software can be found at: 
 
   > *  Download and install the operating sysytem specific version of R software from this [link](https://cran.r-project.org/).
@@ -21,7 +21,7 @@ Post the successful installation, you can launch RStudio to work in data analysi
 
 Note that, R software installation will be needed before one can work on data analysis using R Studio.
 
-### Installation - R and Anaconda 
+### Installation - R with Anaconda 
 RStudio may not be needed if using jupyter notebook. `Anaconda with jupyter notebook can also be used to work with R software.` 
 
 > * Install operating system specific version of [Anaconda](https://www.anaconda.com/products/individual){:target="_blank"}.
