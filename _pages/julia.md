@@ -1,12 +1,10 @@
 ---
 permalink: /julia/
-title: "Julia"
+title: "Machine Learning using Julia"
 toc: true
 toc_label: "Index"
 toc_icon: "cog"
 ---
-
-## Machine Learning using Julia
 One will need to have anaconda framework  for working on data science project using Julia. The installations and repositories for using Julia software are as below:
 
 ### Installation - Julia with Anaconda
