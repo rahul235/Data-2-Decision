@@ -5,7 +5,6 @@ toc: true
 toc_label: "Book list"
 toc_icon: "cog"
 ---
-## List of books
 To get started, there are many books and online resources available. _With bigger collection comes more confusion!!!_ Picking the right set of learning resources is important for structured learning. The fundamental and building block for machine learning starts with conceptual understanding of matehmatics, probability and statistics. Few of the books which may be useful to get deeper understanding of algorithms and techniques used in data science are as below:
 
 > * [Mathematics for Machine Learning](https://www.amazon.in/Mathematics-Machine-Learning-Peter-Deisenroth/dp/110845514X) - Marc Peter Deisenroth and Et.al.
