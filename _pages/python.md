@@ -1,12 +1,10 @@
 ---
 permalink: /python/
-title: "Python"
+title: "Machine Learning using Python"
 toc: true
 toc_label: "Index"
 toc_icon: "cog"
 ---
-
-## Machine Learning using Python
 One may need to have anaconda framework for working on data science project using Python. One may also use google colab to work on the machine learning and deep learning projects. Since colab provisions a server/virtual machine, one may need to be careful in saving the work in local machine before logging off the colab. The installations and repositories for using Python software are as below:
 
 ### Installation - Python with Anaconda
