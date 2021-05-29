@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Hi!!"
+title: "Hi!!!"
 classes: wide
 ---
 
