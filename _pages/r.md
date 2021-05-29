@@ -1,12 +1,10 @@
 ---
 permalink: /r/
-title: "R software"
+title: "Machine Learning using R"
 toc: true
 toc_label: "Index"
 toc_icon: "cog"
 ---
-
-## Machine Learning using R
 One will need R and may need RStudio to work on data science project using R. The installations and repositories for working with R software are as below:
 
 ### Installation - R with R Studio
