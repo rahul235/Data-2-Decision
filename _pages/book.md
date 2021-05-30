@@ -18,7 +18,7 @@ dedicated to introduction to business analytics and its components such as descr
 
 Note that this book is not intended to show the application of machine learning concepts using languages like Python or R. This is a book for learning the concepts within the realm of practical business problems.
 
-You may consider reading the exceptional and classic books by Sheldon Ross after having gone through this book by Prof. Dinesh Kumar U.
+You may consider reading the exceptional and classic books by Sheldon Ross after having gone through this book by Dinesh Kumar U.
 
 ### Machine Learning using Python
 
