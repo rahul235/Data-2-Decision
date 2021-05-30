@@ -25,9 +25,8 @@ You may consider reading the exceptional and classic books by Sheldon Ross after
 [![image](/assets/images/book_manu1.jpg)](https://www.amazon.in/Machine-Learning-Python-Manaranjan-Pradhan/dp/8126579900 "Redirect to Amazon India"){:target="_blank"}
 
 This book is an add-on to the previous book. This book is not for learning basics of python or python programming as a language. This is a book for python practitioner or people with basis knowledge of any scripting knowledge (R, VB Script, Julia, excel macros, MATLAB etc.) and who wants to venture into the field of machine learning implementation using python. Thus, having a solid foundation in the field of data science is a pre-requisite before one tries to apply the techqniues using python language. The book brings a balance between the theoretical concept and application of the concepts in python. Application of advanced machine learning concepts such as decision tree learning, random forest, boosting, recommended systems, and text analytics are covered as well.
- 
+
 ### Other books
- 
 The fundamental and building block for machine learning starts with conceptual understanding of mathematics, probability and statistics. Few of the books which may be useful to get deeper understanding of algorithms and techniques used in data science are as below:
 
 > * [Mathematics for Machine Learning](https://www.amazon.in/Mathematics-Machine-Learning-Peter-Deisenroth/dp/110845514X){:target="_blank"} - Marc Peter Deisenroth and Et.al.
