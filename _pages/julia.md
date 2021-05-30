@@ -5,7 +5,7 @@ toc: true
 toc_label: "Index"
 toc_icon: "cog"
 ---
-One will need to have anaconda framework  for working on data science project using Julia. The installations and repositories for using Julia software are as below:
+One may need to have anaconda framework  for working on data science project using Julia. The installations and repositories for using Julia software are as below:
 
 ### Installation - Julia with Anaconda
 
@@ -17,11 +17,9 @@ Install the application once the download completes. More about anaconda can be 
 
 `Step 2: Download Julia`
 
-Latest version of the Julia software can be found at:
-
 > * Download the OS specific version from [this link](https://julialang.org/downloads/){:target="_blank"}. 
 
-Install Julia after the download and open Julia command line/prompt. In  MacOS you can open terminal and type 'julia' to open the julia command prompt.To add julia to Jupyter Notebook, type the following on julia prompt:
+Install Julia after the download completes and open Julia command line/prompt. In  MacOS you can open terminal and type 'julia' to open the julia command prompt.To add julia to Jupyter Notebook, type the following on julia prompt:
 
     > using Pkg 
     > Pkg.add(“IJulia”)
