@@ -5,7 +5,7 @@ toc: true
 toc_label: "Index"
 toc_icon: "cog"
 ---
-One will need R and may need RStudio to work on data science project using R. The installations and repositories for working with R software are as below:
+One may need R and may need RStudio or Jupyter Notebook  to work on data science project using R. The installations and repositories for working with R software are as below:
 
 ### Installation - R with R Studio
 One should have latest version of R and R Studio installed on their system. First Install R and then R Studio. Latest version of the software can be found at: 
@@ -22,7 +22,7 @@ Note that, R software installation will be needed before one can work on data an
 ### Installation - R with Anaconda 
 RStudio may not be needed if using jupyter notebook. `Anaconda with jupyter notebook can also be used to work with R software.` 
 
-> * Install operating system specific version of [Anaconda](https://www.anaconda.com/products/individual){:target="_blank"}.
+> * Install operating system specific version of [Anaconda](https://www.anaconda.com/products/individual){:target="_blank"}. One may avoid the full installation of anaconda framework and can directly install Jupyter Notebook or Jupyter Lab. Follow the steps mentioned [here](https://jupyter.org/install){:target = "_blank"} to have Jupyter Notebook/Lab installed in your machine.
 > * Install operating system specific version of [R software](https://cran.r-project.org/){:target="_blank"}.
 > * open R console in windows (or open R console through Terminal in Mac). Enter the below command:
 
