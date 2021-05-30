@@ -5,7 +5,7 @@ toc: true
 toc_label: "Index"
 toc_icon: "cog"
 ---
-One may need R and may need RStudio or Jupyter Notebook  to work on data science project using R. The installations and repositories for working with R software are as below:
+One will need R software and may need RStudio or Jupyter Notebook to work on data science project using R. The installations and repositories for working with R software are as below:
 
 ### Installation - R with R Studio
 One should have latest version of R and R Studio installed on their system. First Install R and then R Studio. Latest version of the software can be found at: 
