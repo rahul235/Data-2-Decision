@@ -5,7 +5,7 @@ toc: true
 toc_label: "Index"
 toc_icon: "cog"
 ---
-One may need to have anaconda framework  for working on data science project using Julia. The installations and repositories for using Julia software are as below:
+One may need to have jupyter notebook through anaconda framework or otherwise for working on data science project using Julia. VS Code is another IDE which may be used for scripting with Julia. The installations and repositories for using Julia software are as below:
 
 ### Installation - Julia with Anaconda
 
