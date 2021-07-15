@@ -41,7 +41,7 @@ One is expected to resolve installation issues of the software, if any. You may 
 VS Code is another IDE which may be used to work with Julia. Follow the steps mentioned [here](https://www.julia-vscode.org/docs/dev/gettingstarted/){:target="_blank"} to work on Julia using VS Code.
 
 ### Repository
-The link to the repositories are here: not updated yet.
+Here is the [link](https://github.com/rahul235/ML_using_Julia/archive/refs/tags/V1.0.zip){:target="_blank"} to download the repository for ML using Julia.
 
 ### Tutorial
 Here is a link to tutorial on Julia. The link also has other useful references.
