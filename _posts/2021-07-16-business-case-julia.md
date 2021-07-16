@@ -7,7 +7,6 @@ categories:
 tags:
   - julia
 ---
-## An Executive Summary
 This document aims to establish a need for industry training in Julia, explore the technical and business points that validates Julia, and suggest a plan. Scientific computing requires the highest performance, yet domain experts largely use slower dynamic languages for daily work. There are good reasons to prefer dynamic languages for these applications, and these reasons shall remain.
 Modern language design and compiler techniques, however, make it possible to mostly eliminate the performance trade-off and provide a single environment productive enough for prototyping and efficient enough for deploying performance-intensive applications. The Julia programming language fits this role: it is a flexible dynamic language, appropriate for scientific and numerical computing, with performance comparable to traditional statically-typed languages. 
 Julia is an open-source, high-performance, high-level, and dynamically-typed programming language.  As its four creators blatantly say it, Julia was created in the name of greed; to resolve the inadequacies of other programming languages while also integrating the unique and desirable features of the same languages.
