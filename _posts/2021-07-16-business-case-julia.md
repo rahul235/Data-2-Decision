@@ -8,9 +8,6 @@ tags:
   - julia
 ---
 ## An Executive Summary
-
-**This article was ccontributed by a senior architect with 20+ years of industry experience.**
-
 This document aims to establish a need for industry training in Julia, explore the technical and business points that validates Julia, and suggest a plan. Scientific computing requires the highest performance, yet domain experts largely use slower dynamic languages for daily work. There are good reasons to prefer dynamic languages for these applications, and these reasons shall remain.
 Modern language design and compiler techniques, however, make it possible to mostly eliminate the performance trade-off and provide a single environment productive enough for prototyping and efficient enough for deploying performance-intensive applications. The Julia programming language fits this role: it is a flexible dynamic language, appropriate for scientific and numerical computing, with performance comparable to traditional statically-typed languages. 
 Julia is an open-source, high-performance, high-level, and dynamically-typed programming language.  As its four creators blatantly say it, Julia was created in the name of greed; to resolve the inadequacies of other programming languages while also integrating the unique and desirable features of the same languages.
@@ -141,12 +138,12 @@ There are other benchmarks for [DataFrames](https://h2oai.github.io/db-benchmark
 Are we going to get enough engineers in the market? Are there support forums available. Let us look at the support systems available for working with Julia.
 
 * The chief support is provided by [Julia lang](https://julialang.org/). 
-* Julia’s own resources to get one started are [here](https://julialang.org/learning/) 
+* Julia’s own resources to get one started are [here](https://julialang.org/learning/). 
 * The [Julia Community](https://julialang.org/community/) lists all the official channels. Stack Overflow has many posts concerning Julia.
 * The [Julia blog](https://julialang.org/blog/) discusses issues of numerical, technical, distributed and parallel computing, as well as programming language design, and how these issues touch upon the design and implementation of the Julia programming language.
 * [Julia Computing Blog](https://juliacomputing.com/blog/) discusses ongoing Julia development.
-* Blogs from the broader Julia community can be found at [Julia Bloggers](https://www.juliabloggers.com/) 
-* [Towards Data Science](https://towardsdatascience.com) - has rich articles about Julia - including this - [“Bye-bye Python. Hello Julia!”](https://towardsdatascience.com/bye-bye-python-hello-julia-9230bff0df62)  
+* Blogs from the broader Julia community can be found at [Julia Bloggers](https://www.juliabloggers.com/). 
+* [Towards Data Science](https://towardsdatascience.com) - has rich articles about Julia - including this - [“Bye-bye Python. Hello Julia!”](https://towardsdatascience.com/bye-bye-python-hello-julia-9230bff0df62).  
 * Support from [Google](https://analyticsindiamag.com/julia-users-can-now-rejoice-google-cloud-has-powerful-capabilities-to-support-the-language/), [Azure](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/dsvm-tools-languages) and [Amazon]( https://d1.awsstatic.com/whitepapers/julia-on-sagemaker.pdf?did=wp_card&trk=wp_card) is also available.
 
 ## A Plan for the future
@@ -161,7 +158,4 @@ Barring a few startups like [Pattem]( https://pattemdigital.com/julia-developmen
 * Training is not useful if you do not get to practice in a live environment what you learn. The Developers and Data Scientists should be encouraged as a matter of policy to take to Julia in subsequent projects, with support from Architects, and Managers.
 
 
-
-
-
-
+**This article was ccontributed by a senior architect with 20+ years of industry experience. Based on his request, I have kept his name and company anonymous. However, I am ever thankful for his consent to put his analysis here.**
