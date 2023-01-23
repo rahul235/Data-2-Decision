@@ -5,8 +5,8 @@ classes: wide
 categories:
   - article
 tags:
-  - Story telling
-  - Data Visualization
+  - story telling
+  - data visualization
 ---
 
 This document to establish a need for industry training in Julia, explore the technical and business points that validates Julia, and suggest a plan. Scientific computing requires the highest performance, yet domain experts largely use slower dynamic languages for daily work. There are good reasons to prefer dynamic languages for these applications, and these reasons shall remain.
