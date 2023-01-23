@@ -1,6 +1,7 @@
 ---
+layout: post
 title: "Does your data tell a story"
-last_modified_at: 2023-01-23T16:20:02-05:00
+date: 2023-01-23T22:55:02-05:00
 classes: wide
 categories:
   - article
