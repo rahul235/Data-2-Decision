@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Does your data tell a story"
 date: 2023-01-23T22:55:02-05:00
 classes: wide
