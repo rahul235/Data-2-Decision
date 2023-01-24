@@ -158,4 +158,4 @@ Barring a few startups like [Pattem]( https://pattemdigital.com/julia-developmen
 * Training is not useful if you do not get to practice in a live environment what you learn. The Developers and Data Scientists should be encouraged as a matter of policy to take to Julia in subsequent projects, with support from Architects, and Managers.
 
 
-**This article was ccontributed by a senior architect with 20+ years of industry experience. Based on his request, I have kept his name and company anonymous. However, I am ever thankful for his consent to put his analysis here.**
+**This article was contributed by a senior architect with 20+ years of industry experience. Based on his request, his name and company is not disclosed. However, I am forever thankful for his consent to put his analysis here.**
