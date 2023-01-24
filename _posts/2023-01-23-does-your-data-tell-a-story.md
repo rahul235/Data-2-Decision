@@ -20,7 +20,7 @@ These data are not just for the consumption of business but also for us. We can 
 
 * How we can generate insights with health metrics, which possibly could suggest the changes in lifestyle habits on an individual.
 * In spite of seemingly being health conscious and hitting the gym regularly, why there is prevalence of heart attacks in younger generation.
-* Understanding why we cannot make a good analysis unless we spent a significant amount of time in understanding the data.
+* Understanding why we cannot make a good analysis unless we spend a significant amount of time in understanding the data.
 
 We do not claim that the point raised in second statement can be a generalized and it may need further corraboration.
 
