@@ -72,7 +72,7 @@ The PhD journey is a long one and it still continues. But with so many life less
 
 The journey continues and he still has a long way to go in this PhD journey and in his life. But the story which he has lived through is worth a mention. For if you ever wear a smart watch and track your fitness goals, do try to relate back to the events which you went through at those times. It may lead to another interesting story. A story which may influence some individual to understand what it takes to follow a healthy lifestyle while continuing to work in the world full of chaos and uncertainty.
 
-What if we plug our credit card spend data with the health metrics. We are pretty sure that it will lead to a richer story. But we keep that for some other day. The biggest takeaway is “Story telling though data is not about making fancy charts. It is about understanding the reasons why we see such a pattern. The reasons are the real learnings and can be used to take better informed decisions and actions”.
+What if we plug our credit card spend data with the health metrics. We are pretty sure that it will lead to a richer story. But we keep that for some other day. The biggest takeaway is “Story telling through data is not about making fancy charts. It is about understanding the reasons why we see such a pattern. The reasons are the real learnings and can be used to take better informed decisions and actions”.
 
 
 **This story is published with due consent of the individual and I will be forever thankful to Rahul for giving life to data.**
