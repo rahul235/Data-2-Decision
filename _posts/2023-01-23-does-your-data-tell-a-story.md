@@ -19,7 +19,7 @@ These data are not just for the consumption of business but also for us. We can 
 
 * In spite of seemingly being health conscious and hitting the gym regularly, why there is prevalence of heart attacks in younger generation.
 * The story will break the myth about unhealthy eating and drinking being a stress buster as perceived by few amongst us.
-* The hidden power of meditation and its impact on the function of human nervous system. Its impact is too intense to be ignored. 
+* The hidden power of meditation and its impact on the function of human nervous system is too intense to be ignored. 
 * Why we cannot make a good analysis unless we spend a significant amount of time in understanding the data.
 
 The point raised in first statement may need further corroboration. However, the insights from the analysis could potentially be used for taking actions to improve the lifestyle habits of individuals in general.
