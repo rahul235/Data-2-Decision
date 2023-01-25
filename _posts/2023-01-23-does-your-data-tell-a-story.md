@@ -22,7 +22,7 @@ These data are not just for the consumption of business but also for us. We can 
 * The power of meditation and its impact on the function of human nervous system is too intense to be ignored. The 
 * Why we cannot make a good analysis unless we spend a significant amount of time in understanding the data.
 
-The point raised in first statement may need further corraboration. However, the insights from the analysis could potentially be used for taking actions to improve the lifestlye habits of individuals in general.
+The point raised in first statement may need further corroboration. However, the insights from the analysis could potentially be used for taking actions to improve the lifestyle habits of individuals in general.
 
 ## What is not a story
 
